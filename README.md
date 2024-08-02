@@ -13,7 +13,7 @@
    <td style='width:24%;'>
   <img style='width:100%;' src='hindlish4.png'>
   </td>
-</table>
+</table> 
  <table style='border:none;width:100%'>
   <td style='width:24%;'>
    <img style='width:100%;' src='hindlish5.png'>
